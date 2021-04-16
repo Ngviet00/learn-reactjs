@@ -1,0 +1,10 @@
+.list-todo{
+   li.completed{
+      text-decoration: line-through;
+      font-style: italic;
+      color: grey;
+   }
+   li:hover{
+      cursor: pointer;
+   }
+}
